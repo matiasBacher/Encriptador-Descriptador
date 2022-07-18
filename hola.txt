@@ -1,0 +1,7 @@
+Es importante tener en cuenta que 
+cuando se utilizan funciones como archivo.readlines(), 
+se está cargando en memoria el archivo completo. Siempre que 
+una instrucción cargue un archivo completo en memoria debe 
+tenerse cuidado de utilizarla sólo con archivos pequeños, 
+ya que de otro modo podria agotarse la memoria de la computadora.
+
